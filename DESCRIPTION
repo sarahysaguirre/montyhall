@@ -1,0 +1,14 @@
+Package: montyhall
+Title: Create A New Monty Hall Problem Game
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Sarah",
+           family = "Ysaguirre",
+           role = c("aut", "cre"),
+           email = "ysagusa@asu.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: The game setup replicates the game on the TV show "Let's Make a Deal" where there are three doors for a contestant to choose from, two of which have goats behind them and one has their dream car. The contestant selects their first door then Monty reveals a goat door. The contestant is given the opportunity to either stay with their first choice or choose the remaining door. This setup calculates the proportion of wins if the contestant stays with their original choice or switches. 
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
